@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "connection_name": "Connection1",
+    "room_connected": [
+      0,
+      1
+    ],
+    "enemy_probability": 40
+  },
+  {
+    "id": 1,
+    "connection_name": "Connection2",
+    "room_connected": [
+      1,
+      2
+    ],
+    "enemy_probability": 18
+  },
+  {
+    "id": 2,
+    "connection_name": "Connection3",
+    "room_connected": [
+      2,
+      3
+    ],
+    "enemy_probability": 21
+  },
+  {
+    "id": 3,
+    "connection_name": "Connection4",
+    "room_connected": [
+      3,
+      4
+    ],
+    "enemy_probability": 33
+  },
+  {
+    "id": 4,
+    "connection_name": "Connection5",
+    "room_connected": [
+      4,
+      0
+    ],
+    "enemy_probability": 87
+  }
+]
